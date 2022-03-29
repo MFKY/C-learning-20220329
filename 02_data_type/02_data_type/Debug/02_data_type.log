@@ -1,0 +1,3 @@
+﻿  02_data_type.cpp
+C:\Users\yky23\C-learning-20220329\02_data_type\02_data_type\02_data_type.cpp(21,16): warning C4305: “初始化”: 从“double”到“float”截断
+  02_data_type.vcxproj -> C:\Users\yky23\C-learning-20220329\02_data_type\Debug\02_data_type.exe
